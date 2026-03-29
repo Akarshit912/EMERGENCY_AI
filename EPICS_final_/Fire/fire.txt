@@ -1,0 +1,5 @@
+forestfire DS--
+month,temprature(celcius),humidity(%),rain(mm/m2),wind(km/hr)
+
+Algerian forest-fire:
+month,temprature(celcius),humidity(%),rain(mm/m2),wind(km/hr)

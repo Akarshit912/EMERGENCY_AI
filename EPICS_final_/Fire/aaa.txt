@@ -1,0 +1,29 @@
+minutes of the meeting
+proceeding of the meeting
+
+
+write at least 40 lines of codes/day
+read atleast 5 pages/day
+solve atleast one DSA problem/day
+Learn Basic of atleast 1 technology/week
+do atleast a dataset analysis/week
+
+Remaining time-20 weeks/150 days
+
+Main things to cover-ML,DL,ANN,DSA
+Also do GIT,Docker,AWS,advanced JAVA/python
+
+Time needed=>
+
+
+
+
+
+
+
+
+
+
+
+
+open to listening others intrest and job,try to take intrest inwhat they like 
